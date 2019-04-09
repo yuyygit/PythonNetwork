@@ -4,8 +4,9 @@ import struct
 import sys
 import time
 
-NTP_SERVER = '0.cn.pool.ntp.org'
-TIME1970 = 220898800
+
+NTP_SERVER = '1.uk.pool.ntp.org'
+TIME1970 = 2208988800l
 
 def sntp_client():
     client=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
@@ -17,6 +18,5 @@ def sntp_client():
     t=struct.unpack('!12I',data)[10]
     t-=TIME1970
     print('\tTime=%s'%time.ctime(t))
-
 if __name__ == '__main__':
     sntp_client()
