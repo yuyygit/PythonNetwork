@@ -1,0 +1,32 @@
+ForkingMixIn 和 SocketServer 的应用:
+
+一、使用：
+
+   1.建立class ForkingServer(SocketServer.ForkingMixIn, SocketServer.TCPClient)
+   2.建立ForkingServerRequestHandle(SocketServer.BaseRequestHandle)
+     响应 请求，重写 handle方法，对于每个客户端的请求连接，
+     server端都将建立新的进程，并调用handle方法进行处理
+     具体建立连接和调用handle在下方
+     
+   3.具体实例化ForkingServer一个对象
+	server = ForkingServer((SERVER_HOST, SERVER_PORT), ForkingServerRequestHandle)
+   	实例化阶段调用的是SocketServer.TCPClient的__init__,TCPClinet.__init__()内部调用了BaseServer.__init(self,server_address,RequestHandlerClass) ，
+	 而RequestHandlerclass的入参正是 自己建立的ForkingServer
+   4.建立一个线程，用来跑server.server_forever
+	server_thread = threading.Thread(target= server.server_forever)
+	server_thread.setDaemon(True)
+	server_thread.start()
+   5.在server_forever中，使用select.select 判断是否有socket连接到来
+     若果有socket连接到来，则调self._handle_request_noblock()处理
+       获得请求 request, client_address = self.get_request()
+       验证请求 self.verify_request(request, client_address)
+       处理请求 self.process_request(request, client_address)
+       self.procee_request过程：
+          回收关闭的或是出问题的子进程
+           self.clloect_children() 
+          分配进程
+	   pid = os.fork()
+	  self.finish_request(request, client_address)
+		{在这里完成RequestHandlerClass 的实例化和 handle 的调用}
+	  self.shutdown_request(request)
+

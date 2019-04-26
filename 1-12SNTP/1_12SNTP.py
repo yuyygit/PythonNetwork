@@ -4,7 +4,7 @@ import struct
 import sys
 import time
 
-NTP_SERVER = '1.uk.pool.ntp.org'
+NTP_SERVER = '0.uk.pool.ntp.org'
 TIME1970 = 2208988800l
 
 def sntp_client():
