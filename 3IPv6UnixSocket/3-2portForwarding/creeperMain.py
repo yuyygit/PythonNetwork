@@ -10,7 +10,7 @@ if __name__ == '__main__':
     for i in range(1, 10):
         url = 'https://www.xicidaili.com/nn/{}'.format(i)
         response = requests.get(url, headers=headers)
-        print(response.text)
+        print (response.text)
         html = response.text
         ips = re.findall("<td>(\d+\.\d+\.\d+\.\d+)</td>", html, re.S)
         ports = re.findall("<td>(\d+)</td>", html, re.S)

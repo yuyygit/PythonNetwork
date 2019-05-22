@@ -30,4 +30,4 @@ def run_unix_domain_socket_server():
 
 if __name__ == '__main__':
     print "start"
-    # run_unix_domain_socket_server()
+    run_unix_domain_socket_server()
