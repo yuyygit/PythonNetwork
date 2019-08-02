@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5feed1a-7428-4c4d-8318-7faa1d0af014" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5FtpEmailCGI/5-4downloadqqMail/5_4downloadqqMail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP/5_5checkRemoteEmailViaIMAP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-1searchBusiness/6_1searchBusiness.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2InternetMaps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2aksnbaidumaps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2baidumaps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/ak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/caclsn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-3searchGithub/6_3searchGithub.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7RemoteDevices/7-1executeRemoteTelnet/7_1excuteRemoteTelnet.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5FtpEmailCGI/5-3emailCurrentDirZipped/5_3emailCurrentDirZipped.py" afterPath="$PROJECT_DIR$/5FtpEmailCGI/5-3emailCurrentDirZipped/5_3emailCurrentDirZipped.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +27,13 @@
     <SUITE FILE_PATH="coverage/Network$1_8handleSocketError.coverage" NAME="1_8handleSocketError Coverage Results" MODIFIED="1554631653891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-8handleSocketError" />
     <SUITE FILE_PATH="coverage/PythonNetwork$4_7spoofMozillaFirefoxInClientCode.coverage" NAME="4_7spoofMozillaFirefoxInClientCode Coverage Results" MODIFIED="1558161356615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4HTTP/4-7spoofMozillaFirefoxInClientCode" />
     <SUITE FILE_PATH="coverage/PythonNetwork$5_5checkRemoteEmailViaIMAP.coverage" NAME="5_5checkRemoteEmailViaIMAP Coverage Results" MODIFIED="1559545226946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP" />
+    <SUITE FILE_PATH="coverage/PythonNetwork$6_4linkCrawer.coverage" NAME="6_4linkCrawer Coverage Results" MODIFIED="1559727445802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler" />
     <SUITE FILE_PATH="coverage/PythonNetwork$1_13aEchoServer.coverage" NAME="1_13aEchoServer Coverage Results" MODIFIED="1555253479379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-13echoServer" />
     <SUITE FILE_PATH="coverage/PythonNetwork$2_5echoServerDiesel.coverage" NAME="2_5echoServerDiesel Coverage Results" MODIFIED="1555472743712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2socketIO/2-5echoServerDiesel" />
     <SUITE FILE_PATH="coverage/PythonNetwork$1_4conver_ip4.coverage" NAME="1_4conver_ip4 Coverage Results" MODIFIED="1556421481354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-4_convert_ip4" />
     <SUITE FILE_PATH="coverage/PythonNetwork$3_32pythonMakePing.coverage" NAME="3-32pythonMakePing Coverage Results" MODIFIED="1555824824775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-3pyPing" />
     <SUITE FILE_PATH="coverage/PythonNetwork$3_2portForwarding.coverage" NAME="3_2portForwarding Coverage Results" MODIFIED="1555580641323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-2portForwarding" />
+    <SUITE FILE_PATH="coverage/PythonNetwork$caclsn.coverage" NAME="caclsn Coverage Results" MODIFIED="1559715303420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps" />
     <SUITE FILE_PATH="coverage/PythonNetwork$1_12_2.coverage" NAME="1_12_2 Coverage Results" MODIFIED="1555035493084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-12SNTP" />
     <SUITE FILE_PATH="coverage/PythonNetwork$3_4waitForRemoteService.coverage" NAME="3_4waitForRemoteService Coverage Results" MODIFIED="1555914940301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-4waitForRemoteService" />
     <SUITE FILE_PATH="coverage/PythonNetwork$3_31pythonCallPing.coverage" NAME="3_31pythonCallPing Coverage Results" MODIFIED="1555654296506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-3pyPing" />
@@ -33,6 +41,7 @@
     <SUITE FILE_PATH="coverage/PythonNetwork$3_8detectInactiveMachines.coverage" NAME="3-8detectInactiveMachines Coverage Results" MODIFIED="1556260293190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-8detectInactiveMachines" />
     <SUITE FILE_PATH="coverage/PythonNetwork$3_11checkIPV6Support.coverage" NAME="3_11checkIPV6Support Coverage Results" MODIFIED="1556502947937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-11checkIPV6Suppotr" />
     <SUITE FILE_PATH="coverage/PythonNetwork$2_42.coverage" NAME="2_42 Coverage Results" MODIFIED="1555430496791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2socketIO/2-4webServerepoll" />
+    <SUITE FILE_PATH="coverage/PythonNetwork$6_2aksnbaidumaps.coverage" NAME="6_2aksnbaidumaps Coverage Results" MODIFIED="1559715367230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps" />
     <SUITE FILE_PATH="coverage/Network$1_10socketMode.coverage" NAME="1_10socketMode Coverage Results" MODIFIED="1554689039049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-10socketMode" />
     <SUITE FILE_PATH="coverage/PythonNetwork$3_7findNetworkInterfaceStatus.coverage" NAME="3_7findNetworkInterfaceStatus Coverage Results" MODIFIED="1556005869955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-7findNetworkInterfaceStatus" />
     <SUITE FILE_PATH="coverage/PythonNetwork$4_5proxyWebrequest.coverage" NAME="4_5proxyWebrequest Coverage Results" MODIFIED="1558151616631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4HTTP/4-5proxyWebrequest" />
@@ -42,6 +51,8 @@
     <SUITE FILE_PATH="coverage/PythonNetwork$4_1downloadData.coverage" NAME="4_1downloadData Coverage Results" MODIFIED="1557119397781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4HTTP/4-1downloadData" />
     <SUITE FILE_PATH="coverage/PythonNetwork$creeperMain__1_.coverage" NAME="creeperMain (1) Coverage Results" MODIFIED="1557120532486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3IPv6UnixSocket/3-2portForwarding" />
     <SUITE FILE_PATH="coverage/Network$1_5findServerName.coverage" NAME="1-5findServerName Coverage Results" MODIFIED="1554514993656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-5findServerName" />
+    <SUITE FILE_PATH="coverage/PythonNetwork$6_2baidumaps.coverage" NAME="6_2baidumaps Coverage Results" MODIFIED="1559700686598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps" />
+    <SUITE FILE_PATH="coverage/PythonNetwork$5_6cgiServer.coverage" NAME="5_6cgiServer Coverage Results" MODIFIED="1559748641981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer" />
     <SUITE FILE_PATH="coverage/PythonNetwork$2_43.coverage" NAME="2_43 Coverage Results" MODIFIED="1555464182827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2socketIO/2-4webServerepoll" />
     <SUITE FILE_PATH="coverage/PythonNetwork$1_12SNTP.coverage" NAME="1_12SNTP Coverage Results" MODIFIED="1555035499814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-12SNTP" />
     <SUITE FILE_PATH="coverage/Network$1_7testSocketTimeout.coverage" NAME="1_7testSocketTimeout Coverage Results" MODIFIED="1554604808101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-7testSocketTimeout" />
@@ -81,7 +92,30 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="7_1excuteRemoteTelnet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7RemoteDevices/7-1executeRemoteTelnet/7_1excuteRemoteTelnet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#90#104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_6cgiServer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer/5_6cgiServer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,14 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1-13echoServer/1_13bechoClient.py" />
-        <option value="$PROJECT_DIR$/1-12SNTP/1_12SNTP.py" />
-        <option value="$PROJECT_DIR$/1-12SNTP/1_12_2.py" />
-        <option value="$PROJECT_DIR$/1-11NetTime/1_11NetTime.py" />
-        <option value="$PROJECT_DIR$/1-13echoServer/1_13aEchoServer.py" />
-        <option value="$PROJECT_DIR$/2socketIO/2-1forkingMixinSocketServer/2_1forkingMixinSocketserver.py" />
-        <option value="$PROJECT_DIR$/2socketIO/2-2threadingMixInSocketServer/2_2threadingMixInSocketServer.py" />
-        <option value="$PROJECT_DIR$/2socketIO/2-3chatServerWithSelect/2_3charServerWithSelect.py" />
         <option value="$PROJECT_DIR$/2socketIO/2-4webServerepoll/2_42.py" />
         <option value="$PROJECT_DIR$/2socketIO/2-4webServerepoll/2_43.py" />
         <option value="$PROJECT_DIR$/2socketIO/2-4webServerepoll/2_4webServerepoll.py" />
@@ -152,6 +178,14 @@
         <option value="$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP/5_5checkRemoteEmailViaIMAP.py" />
         <option value="$PROJECT_DIR$/5FtpEmailCGI/5-4downloadqqMail/5_4downloadqqMail.py" />
         <option value="$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer/5_6cgiServer.py" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-1searchBusiness/6_1searchBusiness.py" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2InternetMaps.py" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/ak" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2baidumaps.py" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/caclsn.py" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2aksnbaidumaps.py" />
+        <option value="$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py" />
+        <option value="$PROJECT_DIR$/7RemoteDevices/7-1executeRemoteTelnet/7_1excuteRemoteTelnet.py" />
       </list>
     </option>
   </component>
@@ -162,10 +196,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="330" />
-    <option name="y" value="-4" />
+    <option name="x" value="399" />
+    <option name="y" value="90" />
     <option name="width" value="926" />
-    <option name="height" value="733" />
+    <option name="height" value="706" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -177,7 +211,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Python</id>
+            <id>AngularJS</id>
           </State>
         </selected-state>
       </profile-state>
@@ -219,6 +253,11 @@
               <item name="5FtpEmailCGI" type="462c0819:PsiDirectoryNode" />
               <item name="5-6cgiServer" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="7RemoteDevices" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -226,7 +265,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="/usr/bin/python2.7_sudo.sh" />
   </component>
@@ -242,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_4downloadqqMail">
+  <component name="RunManager" selected="Python.5_6cgiServer">
     <configuration name="3_10unixDomainClient" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,111 +300,111 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="4_8httpCompression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_6cgiServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4HTTP/4-8httpCompression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Network" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4HTTP/4-8httpCompression/4_8httpCompression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer/5_6cgiServer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="5_1ftp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_2aksnbaidumaps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5FtpEmailCGI/5-1FTP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Network" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5FtpEmailCGI/5-1FTP/5_1ftp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2aksnbaidumaps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="5_2pullFileToFtpServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_2baidumaps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5FtpEmailCGI/5-2pllFileToFtpServer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Network" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5FtpEmailCGI/5-2pllFileToFtpServer/5_2pullFileToFtpServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2baidumaps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="5_4downloadqqMail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_4linkCrawer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5FtpEmailCGI/5-4downloadqqMail" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Network" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5FtpEmailCGI/5-4downloadqqMail/5_4downloadqqMail.py" />
-      <option name="PARAMETERS" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py" />
+      <option name="PARAMETERS" value="--url=https://python.org --query=python" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="5_5checkRemoteEmailViaIMAP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="caclsn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Network" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP/5_5checkRemoteEmailViaIMAP.py" />
-      <option name="PARAMETERS" value="--username=361719439@qq.com" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/caclsn.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.3_10unixDomainClient" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4_8httpCompression" />
-      <item index="2" class="java.lang.String" itemvalue="Python.5_1ftp" />
-      <item index="3" class="java.lang.String" itemvalue="Python.5_2pullFileToFtpServer" />
-      <item index="4" class="java.lang.String" itemvalue="Python.5_5checkRemoteEmailViaIMAP" />
-      <item index="5" class="java.lang.String" itemvalue="Python.5_4downloadqqMail" />
+      <item index="1" class="java.lang.String" itemvalue="Python.6_2baidumaps" />
+      <item index="2" class="java.lang.String" itemvalue="Python.6_2aksnbaidumaps" />
+      <item index="3" class="java.lang.String" itemvalue="Python.caclsn" />
+      <item index="4" class="java.lang.String" itemvalue="Python.6_4linkCrawer" />
+      <item index="5" class="java.lang.String" itemvalue="Python.5_6cgiServer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.5_4downloadqqMail" />
-        <item index="1" class="java.lang.String" itemvalue="Python.5_5checkRemoteEmailViaIMAP" />
-        <item index="2" class="java.lang.String" itemvalue="Python.5_2pullFileToFtpServer" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5_1ftp" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4_8httpCompression" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5_6cgiServer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.6_4linkCrawer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.6_2aksnbaidumaps" />
+        <item index="3" class="java.lang.String" itemvalue="Python.caclsn" />
+        <item index="4" class="java.lang.String" itemvalue="Python.6_2baidumaps" />
       </list>
     </recent_temporary>
   </component>
@@ -390,41 +429,38 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="399" y="90" width="1303" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27171314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27171314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39593115" sideWeight="0.5050798" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262987" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53084415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32142857" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.612013" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35876623" sideWeight="0.49492016" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30357143" sideWeight="0.49492016" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39593115" sideWeight="0.5050798" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262987" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53084415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.612013" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35876623" sideWeight="0.49492016" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -882,16 +918,6 @@
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file:///usr/lib/python2.7/httplib.py</url>
-          <line>1231</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file:///usr/lib/python2.7/httplib.py</url>
-          <line>1198</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/creeperMain/creeperMain.py</url>
           <line>14</line>
           <option name="timeStamp" value="162" />
@@ -905,16 +931,6 @@
           <url>file://$PROJECT_DIR$/4HTTP/4-1downloadData/4_1downloadData.py</url>
           <line>19</line>
           <option name="timeStamp" value="165" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file:///usr/lib/python2.7/httplib.py</url>
-          <line>1187</line>
-          <option name="timeStamp" value="166" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file:///usr/lib/python2.7/httplib.py</url>
-          <line>1181</line>
-          <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file:///usr/lib/python2.7/BaseHTTPServer.py</url>
@@ -955,99 +971,62 @@
           <line>25</line>
           <option name="timeStamp" value="184" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-1searchBusiness/6_1searchBusiness.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="185" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="199" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="response" language="Python" />
+        <watch expression="processed" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-9socketpair/3-9ipcsocketpiar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-10unixDomainSocket/3_10unixDomainClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-10unixDomainSocket/3-10unixDomainSocket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#18#31#0" expanded="true" />
-            <marker date="1556421617485" expanded="true" signature="138:148" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-11checkIPV6Suppotr/3_11checkIPV6Suppport.py" />
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/netaddr/ip/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="937" column="0" lean-forward="false" selection-start-line="937" selection-start-column="0" selection-end-line="937" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-12extractIpv6Prefix/3_12extratIpv6Prefix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-11checkIPV6Suppotr/3_11checkIPV6Support.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2socketIO/2-5echoServerDiesel/2_5echoServerDiesel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4HTTP/4-1downloaddata.py" />
-    <entry file="file://$PROJECT_DIR$/2socketIO/2-4webServerepoll/2_4webServerepoll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="41" column="80" lean-forward="false" selection-start-line="41" selection-start-column="80" selection-end-line="41" selection-end-column="80" />
-          <folding>
-            <element signature="e#18#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14436">
-          <caret line="835" column="8" lean-forward="false" selection-start-line="835" selection-start-column="8" selection-end-line="835" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3IPv6UnixSocket/3-2portForwarding/creeperMain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1-4_convert_ip4/1_4conver_ip4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1139,14 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
           <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python2.7/httplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="1028" column="0" lean-forward="false" selection-start-line="1028" selection-start-column="0" selection-end-line="1028" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1284,13 +1255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/152320452/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="2806" column="8" lean-forward="false" selection-start-line="2806" selection-start-column="8" selection-end-line="2806" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5FtpEmailCGI/5-3emailCurrentDirZipped/aTestEmail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1302,7 +1266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1310,7 +1273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1318,17 +1280,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="519" column="0" lean-forward="false" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP/5_5checkRemoteEmailViaIMAP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-          <folding>
-            <element signature="e#60#75#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1336,16 +1287,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5FtpEmailCGI/5-5checkRemoteEmailViaIMAP/5_5checkRemoteEmailViaIMAP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
           <folding>
-            <element signature="e#60#75#0" expanded="false" />
+            <element signature="e#60#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer/5_6_send_feedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/pygeocoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="54" column="53" lean-forward="false" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/geopy/geocoders/osm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7721">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-1searchBusiness/6_1searchBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#89#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2InternetMaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/httplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="1198" column="0" lean-forward="false" selection-start-line="1198" selection-start-column="0" selection-end-line="1198" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/dist-packages/urlgrabber/byterange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2664">
+          <caret line="152" column="8" lean-forward="false" selection-start-line="152" selection-start-column="8" selection-end-line="152" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/152320452/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="1865" column="11" lean-forward="false" selection-start-line="1865" selection-start-column="11" selection-end-line="1865" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2baidumaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/caclsn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/6_2aksnbaidumaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-2InternetMaps/ak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6getScreenAndApplication/6-4linkCrawler/6_4linkCrawer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="51" column="74" lean-forward="false" selection-start-line="51" selection-start-column="74" selection-end-line="51" selection-end-column="74" />
+          <folding>
+            <element signature="e#89#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7RemoteDevices/7-1executeRemoteTelnet/7_1excuteRemoteTelnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#90#104#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5FtpEmailCGI/5-6cgiServer/5_6cgiServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="54">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
